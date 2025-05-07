@@ -1,0 +1,61 @@
+.guarantee {
+  border-color:        white;
+  border-width:        1px;
+  border-style:        dashed;
+  background-color:    #a7cece;
+}
+.guarantee {
+  border-color:        white;
+  border-width:        1px;
+  border-style:        dashed;
+  background-color:    #a7cece;
+  padding:             25px; /* 新增内边距 */
+}
+.guarantee {
+  border-color:        white;
+  border-width:        1px;
+  border-style:        dashed;
+  background-color:    #a7cece;
+  padding:             25px; 
+  margin:              30px;  /* 新增外边距 */
+}
+.guarantee{
+  line-height: 1.9em;
+  font-style: italic;
+  color: #444444;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image: url(images/background.gif);
+  background-repeat: no-repeat;
+  background-position: top left;
+  padding: 25px;
+  padding-left: 80px;
+  margin-right:250px ;
+  border-top-right-radius: 2em;
+  border-bottom-left-radius: 2em;
+}
+.elixirs{
+  border-width: thin;
+  border-style: solid;
+  border-color: #007e7e;
+  width: 200px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+
+  margin-left: 20px;
+  background-image: url(images/cocktail.gif);
+  background-repeat: repeat-x;
+
+  text-align: center;
+}
+.cd{
+  display: block;
+  font-weight: 100px;
+  font-style: italic;
+}
+
+.artist{
+  display: block;
+  font-weight: 200px;
+  font-weight: bold;
+}
